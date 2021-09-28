@@ -19,6 +19,6 @@
 <td>23</td>
 <td>F</td>
 </tr>
-<img src="./images/image1.jpg">
+!{Alt text}(home/classwork/image1.jpg)
 <image src="./classwork/image2.jpg">
 <image src="./images/image3.jpg">
