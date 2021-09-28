@@ -5,17 +5,17 @@
 <th>Gender</th>
 </tr>
 <tr>
-<td>Eric Karisa></td>
-<td>22></td>
-<td>Male></td>
+<td>Eric Karisa</td>
+<td>22</td>
+<td>M></td>
 </tr>
 <tr>
-<td>Lilian Kikunda></td>
-<td>21></td>
-<td>Female></td>
+<td>Lilian Kigunda</td>
+<td>25</td>
+<td>F></td>
 </tr>
 <tr>
-<td>Mary Wanjiru></td>
-<td>23></td>
-<td>Female></td>
+<td>Mary Wanjiru</td>
+<td>23</td>
+<td>F></td>
 </tr>
